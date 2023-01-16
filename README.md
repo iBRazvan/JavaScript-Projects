@@ -1,1 +1,2 @@
-# JavaScript-Projects - Each branch corresponds to a JavaScript project!
+# JavaScript-Projects 
+Each branch corresponds to a JavaScript project!
